@@ -6,10 +6,10 @@
   "website": "https://github.com/m4mallu/conebot",
   "repository": "https://github.com/pratikthalor/clonebot",
   "env": {
-        "APP_ID": {"9435115": "Get this value from https://my.telegram.org", "required": true},
-        "API_HASH": {"e5ee49784229301e6e1892861cfc9828": "Get this value from https://my.telegram.org" , "required": true},
-        "TG_BOT_TOKEN": {"5436349716:AAHoHYr2tO9rOWsQEfGbfYuK5KsrpPDSwx0": "Get Bot Token From BotFather Bot","required": true},
-        "TG_USER_SESSION": {"BQCP9-sAql4KOyREJvyLjuBH6Xcy7hXqodBYWUaeKMMMbHKMQ6lN1vU130g6WjvLldIXgL3QAa41Q09lo_XULFq1a6uVJImUk9temSQgZe4tVgqI7tfT8Bh1nWMdDMVsIK-J4JBFi7aC3fpuLbOZZw6k1CIf-PWvWaKhdI7zWcZ5gPgoiwOJ4tJlXVQMmcXGTQILHYbjW908s7Qi7pzJMcN-xigzPZGxOAmrX9y9wVa4kkWix-Pk7nfE-Y_9kHeqsF6DSEbx3_I4RXYoMV0FLztRZgagy_XvFOsZlQVautUDc5cvwCLhql9queed1RO--k7thHZKVLzrSPrwAgRzaPjO0QXQigAAAAFECB0UAQ": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
+        "APP_ID": {"": "Get this value from https://my.telegram.org", "required": true},
+        "API_HASH": {"": "Get this value from https://my.telegram.org" , "required": true},
+        "TG_BOT_TOKEN": {"": "Get Bot Token From BotFather Bot","required": true},
+        "TG_USER_SESSION": {"": "String Session from an admin user. Go to: t.ly/GxsB ","required": true},
         "AUTH_USERS": {"description": "User ids of authorized users separated by space", "required": false},
         "ENV": {"ANYTHING": "Set this to ANYTHING","value": "ANYTHING"}
   },
